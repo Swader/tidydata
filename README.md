@@ -29,4 +29,4 @@ You should create one R script called run_analysis.R that does the following:
 
 ## The Process
 
-See [CODEBOOK](CODEBOOK.md).
+See [CODEBOOK](CODEBOOK.MD).
